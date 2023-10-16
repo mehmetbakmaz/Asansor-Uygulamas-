@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\Asansör Uygulaması\Asansör Uygulaması\bin\Debug\net6.0-windows\Asansör Uygulaması.exe
+C:\Users\Administrator\source\repos\Asansör Uygulaması\Asansör Uygulaması\bin\Debug\net6.0-windows\Asansör Uygulaması.deps.json
+C:\Users\Administrator\source\repos\Asansör Uygulaması\Asansör Uygulaması\bin\Debug\net6.0-windows\Asansör Uygulaması.runtimeconfig.json
+C:\Users\Administrator\source\repos\Asansör Uygulaması\Asansör Uygulaması\bin\Debug\net6.0-windows\Asansör Uygulaması.dll
+C:\Users\Administrator\source\repos\Asansör Uygulaması\Asansör Uygulaması\bin\Debug\net6.0-windows\Asansör Uygulaması.pdb
+C:\Users\Administrator\source\repos\Asansör Uygulaması\Asansör Uygulaması\obj\Debug\net6.0-windows\Asansör_Uygulaması.Form1.resources
+C:\Users\Administrator\source\repos\Asansör Uygulaması\Asansör Uygulaması\obj\Debug\net6.0-windows\Asansör Uygulaması.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Asansör Uygulaması\Asansör Uygulaması\obj\Debug\net6.0-windows\Asansör Uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Asansör Uygulaması\Asansör Uygulaması\obj\Debug\net6.0-windows\Asansör Uygulaması.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Asansör Uygulaması\Asansör Uygulaması\obj\Debug\net6.0-windows\Asansör Uygulaması.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Asansör Uygulaması\Asansör Uygulaması\obj\Debug\net6.0-windows\Asansör Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Asansör Uygulaması\Asansör Uygulaması\obj\Debug\net6.0-windows\Asansör Uygulaması.dll
+C:\Users\Administrator\source\repos\Asansör Uygulaması\Asansör Uygulaması\obj\Debug\net6.0-windows\refint\Asansör Uygulaması.dll
+C:\Users\Administrator\source\repos\Asansör Uygulaması\Asansör Uygulaması\obj\Debug\net6.0-windows\Asansör Uygulaması.pdb
+C:\Users\Administrator\source\repos\Asansör Uygulaması\Asansör Uygulaması\obj\Debug\net6.0-windows\Asansör Uygulaması.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Asansör Uygulaması\Asansör Uygulaması\obj\Debug\net6.0-windows\ref\Asansör Uygulaması.dll
